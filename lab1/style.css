@@ -1,0 +1,16 @@
+body{
+    background-color: cyan;
+}
+
+#form1{
+    justify-content: flex-start;
+}
+
+#inputbox1{
+    margin-left: 10px;
+}
+
+
+#inputbox2{
+    margin-left: 5px;
+}
