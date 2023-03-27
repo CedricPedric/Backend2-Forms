@@ -1,4 +1,2 @@
-<?php
-    echo "Ooga Booga Databases <br>";
-    echo "OOGA BOOGA CHACKA" 
-?>
+<?php echo"Welcome " .  $_GET["name"] . "<br>";
+echo "Your email address is:  " . $_GET["email"]; ?>
