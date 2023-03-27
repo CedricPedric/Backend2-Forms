@@ -1,2 +1,2 @@
-<?php echo"Welcome " .  $_GET["name"] . "<br>";
-echo "Your email address is:  " . $_GET["email"]; ?>
+<?php echo"Welcome " .  $_POST["name"] . "<br>";
+echo "Your email address is:  " . $_POST["email"]; ?>
