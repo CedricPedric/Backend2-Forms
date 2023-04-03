@@ -1,0 +1,37 @@
+
+body{
+    background-color: rgb(62, 61, 61);
+}
+#madlibdstext{
+    color:white
+}
+#maincontainer{
+    margin-left: 33%;
+    margin-right: 33%;
+    height: 500px;
+    width: 350px;
+}
+.navcontainer{
+    display: flex;
+    color:white;
+    background-color:red;
+    height: 5%;
+}
+.links{
+    margin: 2px;
+    color: white;
+}
+.errors{
+    color:red
+}
+.questions{
+    margin-bottom: 10px;
+}
+#formcontainer{
+    background-color: white;
+    height: 90%;
+    padding: 10px;
+}
+#link2{
+    margin-left: 50px;
+}
